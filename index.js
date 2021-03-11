@@ -50,11 +50,11 @@ function funNumbers(num1,num2,char){
     return num1+num2;
   }
   
-  if(char=="divide"){
+ else if(char=="divide"){
     return num1/num2;
   }
 
-  if(char=="multiply"){
+  else  if(char=="multiply"){
     return num1*num2;
   }
   
