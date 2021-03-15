@@ -1,7 +1,7 @@
 // Function that gives the length of a text
 
-function displayTextLength(string){
-    return string.length;
+function displayTextLength(string) {
+ return string.length;
 }
 
  displayTextLength('Kehinde');
@@ -9,15 +9,15 @@ console.log(displayTextLength('Kehinde'))
 
 
 // Function that gives the square of a number
-function calculateSquare(number){
-  return number * number;
+function calculateSquare(number) {
+return number * number;
 }
 calculateSquare(9)
 console.log(calculateSquare(9))
 
 // Function that converts text to uppercase
 
-function changeToUpperCase(string){
+function changeToUpperCase(string) {
 return string.toUpperCase();
 }
 
